@@ -1,0 +1,22 @@
+{
+		"extra": {
+			"version": "1.0.0"
+		},
+    "name": "4gekkman/d10014",
+		"description": "D10014 - Affiliate program",
+    "license": "4gekkman@gmail.com",
+    "authors": [
+        {
+            "name": "4gekkman",
+            "email": "4gekkman@gmail.com",
+						"homepage": "https://github.com/4gekkman/d10014"
+        }
+    ],
+    "require": {
+      "4gekkman/M1": "~1.0",
+			"4gekkman/L10001": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {"D10014\\": ""}
+    }
+}
